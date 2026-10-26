@@ -32,16 +32,16 @@ I am a first-year PhD candidate at the HKUST NLP Group at Hong Kong University o
 
 ## Publications
 
-1. [**SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**](/publication/2025-01-01-synlogic/) — 2025 Arxiv paper; first author. A GitHub code repository is available.
-2. [**On the Perception Bottleneck of VLMs for Chart Understanding**](/publication/2025-01-01-perception-bottleneck/) — 2025 Arxiv paper; first author. Code repository: Vision4Chart.
-3. [**On the Universal Truthfulness Hyperplane Inside LLMs**](/publication/2024-01-01-universal-truthfulness-hyperplane/) — EMNLP 2024; first author. Code repository: Universal_Truthfulness_Hyperplane.
-4. [**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**](/publication/2024-01-01-in-context-sharpness/) — ICML 2024; co-author.
-5. [**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**](/publication/2023-01-01-ceval/) — NeurIPS 2023; co-author.
-6. [**Composing Parameter-Efficient Modules with Arithmetic Operations**](/publication/2023-01-01-composing-peft-modules/) — NeurIPS 2023; co-author.
+1. [**SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**](publication/2025-01-01-synlogic/) — 2025 Arxiv paper; first author. A GitHub code repository is available.
+2. [**On the Perception Bottleneck of VLMs for Chart Understanding**](publication/2025-01-01-perception-bottleneck/) — 2025 Arxiv paper; first author. Code repository: Vision4Chart.
+3. [**On the Universal Truthfulness Hyperplane Inside LLMs**](publication/2024-01-01-universal-truthfulness-hyperplane/) — EMNLP 2024; first author. Code repository: Universal_Truthfulness_Hyperplane.
+4. [**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**](publication/2024-01-01-in-context-sharpness/) — ICML 2024; co-author.
+5. [**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**](publication/2023-01-01-ceval/) — NeurIPS 2023; co-author.
+6. [**Composing Parameter-Efficient Modules with Arithmetic Operations**](publication/2023-01-01-composing-peft-modules/) — NeurIPS 2023; co-author.
 
 ## Contact
 
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 - GitHub: [Vicent0205](https://github.com/Vicent0205)
 - Google Scholar: [my profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- X (Twitter): [@junteng88716710](https://x.com/junteng88716710)
+- X (Twitter): @junteng88716710
